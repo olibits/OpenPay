@@ -65,8 +65,46 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 ## Screenshots
 
 - Screen 1 Profile
-![](https://github.com/olibits/OpenPay/blob/master/screen_one_profile.jpg)
-![](screen_one_profile_collapsed.jpg)
+ 
+<img src="https://github.com/olibits/OpenPay/blob/master/screen_one_profile.jpg"  width="300" height="600">  <img src="https://github.com/olibits/OpenPay/blob/master/screen_one_profile_collapsed.jpg"  width="300" height="600">
+
+- Screen 2 Movies
+
+<img src="https://github.com/olibits/OpenPay/blob/master/screen_two_movies.jpg"  width="300" height="600"> 
+
+- Screen 3 Upload image to Firebase Storage
+
+    - Firebase Storage console
+    
+<img src="https://github.com/olibits/OpenPay/blob/master/firebase_storage_console.png"  width="600" height="300"> 
+
+    - Upload image from gallery
+    - Ask image source -> Select from gallery -> Preview image selected from gallery
+    
+<img src="https://github.com/olibits/OpenPay/blob/master/screen_three_dialog.jpg"  width="150" height="300">  <img src="https://github.com/olibits/OpenPay/blob/master/screen_three_pickeddromgallery.jpg"  width="150" height="300"> 
+
+    - Upload image from camera
+    - Selected source from camera -> Ask for permissions- -> Preview of camera -> Photo taken
+<img src="https://github.com/olibits/OpenPay/blob/master/screen_three_permissions.jpg"  width="150" height="300"> <img src="https://github.com/olibits/OpenPay/blob/master/screen_three_camera_preview.jpg"  width="150" height="300"> <img src="https://github.com/olibits/OpenPay/blob/master/screen_three_phototaken.jpg"  width="150" height="300"> 
+
+    - Image Uploaded
+ <img src="https://github.com/olibits/OpenPay/blob/master/screem_three_image_upload.jpg"  width="150" height="300"> 
+ 
+- Screen 4
+    - Show the location of the device that is stored in firebase every 5 minutes
+        
+    - Firebase database console
+    
+ <img src="https://github.com/olibits/OpenPay/blob/master/firebase_database_console.png" width="600" height="300">
+ 
+    - Map showing the locations and markers
+    
+   <img src="https://github.com/olibits/OpenPay/blob/master/screen_map.png" width="150" height="300">
+    
+    -Notification 
+    
+   <img src="https://github.com/olibits/OpenPay/blob/master/notification.png" width="150" height="300">
+    
 
 ## Technical debt 💬
 
