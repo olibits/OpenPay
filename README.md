@@ -99,11 +99,17 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
  
     - Map showing the locations and markers
     
-   <img src="https://github.com/olibits/OpenPay/blob/master/screen_map.png" width="150" height="300">
+   <img src="https://github.com/olibits/OpenPay/blob/master/screen_map.png" width="300" height="600">
     
-    -Notification 
+    - Notification 
     
-   <img src="https://github.com/olibits/OpenPay/blob/master/notification.png" width="150" height="300">
+   <img src="https://github.com/olibits/OpenPay/blob/master/notification.png" width="300" height="600">
+   
+   - If the internet connection is not available the data is retrieved from local
+   
+   <img src="https://github.com/olibits/OpenPay/blob/master/no_internet_profile.jpg" width="300" height="600">  <img src="https://github.com/olibits/OpenPay/blob/master/no_internet_movies.jpg" width="300" height="600">     
+
+
     
 
 ## Technical debt 💬
