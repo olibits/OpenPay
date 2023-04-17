@@ -2,8 +2,6 @@
 
 **OpenPay** is a sample Android application 📱 built to demonstrate use of *Modern Android development*.
 
-***You can Install and test latest Foodium app from below 👇***
-
 ## About
 
 [Spanish instructions]
