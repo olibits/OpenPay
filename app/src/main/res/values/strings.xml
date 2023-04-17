@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">OpenPay</string>
+    <string name="title_home">Profile</string>
+    <string name="title_dashboard">Movies</string>
+    <string name="title_notifications">Images</string>
+    <string name="title_locations">Locations</string>
+    <string name="title_popular_movies">Popular Movies</string>
+    <string name="title_best_movies">Top Rated Movies</string>
+    <string name="no_connection">Internet not available</string>
+    <string name="connection">Internet available</string>
+    <string name="txt_select_img">Select Image</string>
+    <string name="txt_take_img">Take Image</string>
+    <string name="txt_upload">Upload</string>
+
+
+    <string name="fine_location_permission_rationale">The fine location permission is needed for core functionality.</string>
+    <string name="ok">OK</string>
+    <string name="background_location_permission_rationale">The background location permission is needed for enhanced functionality.</string>
+    <string name="fine_location_access_rationale_title_text">Welcome to the Background Location Sample!</string>
+
+    <string name="fine_location_access_rationale_details_text">This sample allows you to receive location updates while using the app.
+        \n\n
+        In order for this feature to work, please approve access to your location via the button below.
+    </string>
+    <string name="enable_fine_location_button_text">Approve Location Access</string>
+    <string name="enable_background_location_button_text">Approve Background Location Access</string>
+    <string name="background_location_access_rationale_title_text">Improve location accuracy!</string>
+
+    <string name="background_location_access_rationale_details_text">
+        Dev Tip: Unless you have a valid use case for background location updates, you should instead only request updates while your app is in the foreground (app/foreground service).
+        \n\n
+        For this app, you would explain why the particular use case requires background location updates and direct user to click \"Allow all the time\" below.
+        \n\n
+    </string>
+    <string name="fine_permission_denied_explanation">Fine location permission was denied, but is needed for core functionality.</string>
+    <string name="background_permission_denied_explanation">Background location permission was denied but needed for enhanced functionality.</string>
+    <string name="settings">Settings</string>
+
+
+</resources>
