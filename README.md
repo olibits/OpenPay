@@ -65,8 +65,8 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 ## Screenshots
 
 - Screen 1 Profile
-![](screen_one_profile.png)
-![](screen_one_profile_collapsed.png)
+![](/screen_one_profile.png)
+![](/screen_one_profile_collapsed.png)
 
 ## Technical debt 💬
 
