@@ -62,6 +62,12 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 
 ![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
+## Screenshots
+
+- Screen 1 Profile
+![](screen_one_profile.png)
+![](screen_one_profile_collapsed.png)
+
 ## Technical debt 💬
 
 - Unit test
