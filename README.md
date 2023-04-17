@@ -65,8 +65,8 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 ## Screenshots
 
 - Screen 1 Profile
-![](/screen_one_profile.png)
-![](/screen_one_profile_collapsed.png)
+![](https://github.com/olibits/OpenPay/blob/master/screen_one_profile.jpg)
+![](screen_one_profile_collapsed.jpg)
 
 ## Technical debt 💬
 
